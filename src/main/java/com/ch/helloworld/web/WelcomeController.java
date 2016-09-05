@@ -1,6 +1,6 @@
-package com.causyhome.helloworld.web;
+package com.ch.helloworld.web;
 
-import com.causyhome.helloworld.service.HelloWorldService;
+import com.ch.helloworld.service.HelloWorldService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

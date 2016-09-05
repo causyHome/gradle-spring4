@@ -10,7 +10,7 @@
         http://www.springframework.org/schema/context 
         http://www.springframework.org/schema/context/spring-context.xsd ">
  
-	<context:component-scan base-package="com.causyhome.helloworld.web" />
+	<context:component-scan base-package="com.ch.helloworld.web" />
  
 	<mvc:resources mapping="/resources/**" location="/resources/" />
 	 

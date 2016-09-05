@@ -1,4 +1,4 @@
-package com.causyhome.helloworld.service;
+package com.ch.helloworld.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
