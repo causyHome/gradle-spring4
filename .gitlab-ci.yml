@@ -1,5 +1,5 @@
-image: java:jdk-8
+image: openjdk:8-jdk
 
 build:
   stage: build
-  script: "./gradlew buil d"
+  script: "./gradlew build"
